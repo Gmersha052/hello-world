@@ -1,2 +1,2 @@
 # hello-world
-for learning purpose
+For learning purpose @ GitHub
