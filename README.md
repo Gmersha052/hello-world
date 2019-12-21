@@ -7,5 +7,7 @@ Reminding my-self of all the good memories I had in my childhood which makes me 
 // Commands used to create react app at node.js command prompt
 
 npx create-react-app gion-first-app
+
 cd gion-first-app
+
 npm start
